@@ -1,0 +1,19 @@
+{
+  "name": "elecphi",
+  "version": "0.0.14",
+  "description": "## 简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longtvonairplane/elecphiNA.git"
+  },
+  "author": "realtvop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longtvonairplane/elecphiNA/issues"
+  },
+  "homepage": "https://github.com/longtvonairplane/elecphiNA#readme"
+}
